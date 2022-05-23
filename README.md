@@ -7,8 +7,9 @@
       </p>
     </div>
       <br>
-      <img src="https://imgur.com/a/aizblS6.gif" alt="" width="50%" height="60%">
+      <img src="" alt="" width="50%" height="60%">
     <div>
+     
       <h2>DESAFIOS</h2>
       <li>
         Acredito que apesar de ter a ideia do design da página e de estar começando no desenvolvimento web, o principal desafio foi "caçar" na Internet as tags especificas para construir os detalhes da página.
