@@ -7,7 +7,7 @@
       </p>
     </div>
       <br>
-      <img src="https://imgur.com/a/aizblS6/" alt="" width="50%" height="60%">
+      <img src="https://imgur.com/a/aizblS6.gif" alt="" width="50%" height="60%">
     <div>
       <h2>DESAFIOS</h2>
       <li>
