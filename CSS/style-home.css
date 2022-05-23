@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@500&family=Inconsolata:wght@300&family=Plus+Jakarta+Sans:wght@300;600&family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@500&family=Inconsolata:wght@300&family=Plus+Jakarta+Sans:wght@300;600&family=Roboto&family=Roboto+Slab:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: none;
+
+}
+
+/* MENU */
+
+#menu{
+    background-color: #0C2192;
+    width: 200px;
+    height: 100vh;
+    font-size: 25px;
+    position: fixed;
+    z-index: 1;
+}
+
+/* LOGO */
+
+#logo{
+    margin: 15% 10% 10% 10%;
+    height: 15%;
+}
+
+/* TÓPICOS DO MENU */
+
+#menu #ul-menu{
+    margin-top: 10%;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+ul {
+    background-color: #0C2192;
+    list-style: none;
+    width: 200px;
+    padding: 0;
+}
+li {
+    position: relative; /*Necessário para flutuar os submenus */
+}
+.menu{
+    color: white;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+.sub-menu{
+    color: white;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+.sub-menu:hover{
+    background-color: white;
+    color: #0C2192;
+    border-radius: 20px;
+}
+.menu:hover {
+    background-color: white;    
+    color: #0C2192;
+}
+li ul{
+    display: none;
+}
+li:hover ul {
+    display: block;
+}
+li ul {
+    position: absolute;
+    left: 100%; /* Posiciona o menu filho ao lado do menu pai */
+    top: 0; /* Posiciona o menu filho no topo do menu pai */
+}
+#copyright{
+    position: fixed;
+    color: white;
+    z-index: 5;
+    margin-top: 95vh;
+    margin-left: 4%;
+}
+
+/* BANNER BACKGROUND */
+
+#banner{
+    margin-left: 200px;
+    height: 100vh;
+    overflow: hidden;
+    background-color: black;
+}
+
+#banner img{
+    width: 100%;
+    opacity: 0.4;
+}
+
+#banner-titulo{
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    left: 350px;
+    top: 110px;
+    position: absolute;
+    font-size: 35px;
+    transition:all 0.9s ease;
+    
+}
+
+button{
+    margin-top: 3%;
+    font-size: 25px;
+    padding: 0;
+}
+
+.baixar{
+    text-decoration: none;
+    color: aliceblue;
+    background-color:#0C2192;
+    padding: 10px;
+    display: block;
+}
+
+.baixar:hover{
+    background-color: aliceblue;
+    color: #0C2192;
+}
+

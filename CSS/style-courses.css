@@ -1,0 +1,78 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+
+/* CONFIGURAÇÃO DO CONTAINER-PAI > COURSES */
+
+#container-courses{
+    margin-left: 200px;
+    height: 100vh;
+}
+
+#bloco-courses{
+    margin: 2% 3% 3% 3%;
+    height: 83%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.blocoA, .blocoB{
+    width: 49%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.cursos{
+    font-family: 'Hind Madurai', sans-serif;
+    border: 1px solid #0C2192;
+    border-radius: 7px;
+    height: 16%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3% 0 5%;
+    text-align: center;
+}
+
+
+.cursos:hover{
+    box-shadow: 0 4px 8px 0 rgb(10, 29, 170);
+    border: 2px solid #0C2192;
+}
+.img-courses{
+    border-radius: 8px;
+    width: 16%;
+    height: 93%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.info-courses{
+    font-size: 15px;
+
+}
+.cursos button{
+    border-radius: 10px;
+    font-size: 16px;
+    width: 27%;
+    overflow: hidden;
+}
+
+.baixar-certificado{
+    text-decoration: none;
+    color: aliceblue;
+    background-color:#0C2192;
+    display: block;
+    padding: 6px;
+}
+.baixar-certificado:hover{
+    background-color: white;
+    color: #0C2192;
+}

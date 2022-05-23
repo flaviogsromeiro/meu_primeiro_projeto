@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2? family= Hind+Madurai:wght@500 & display=swap');
+
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+
+#container-trampos{
+    margin-left: 200px;
+    height: 100vh;
+}
+.timeline-trampos{
+    margin: 1% 2% 2% 2%;
+    height: 500px;
+    display: flex;
+}
+
+.coluna{
+    font-family: 'Hind Madurai', sans-serif;
+    height: 100%;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    
+}
+
+.bloco{
+    border: 1px solid #0C2192;
+    height: 25%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 28%;
+
+    color: rgb(124, 115, 115);
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+.bloco2, .bloco4{
+    border: 1px solid #0C2192;
+    height: 25%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    color: rgb(124, 115, 115);
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+.bloco3{
+    border: 1px solid #0C2192;
+    height: 25%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 28% 0 28% 0;
+
+    color: rgb(124, 115, 115);
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+
+.img-trampo{
+    width: 20%;
+    height: 75%;
+    display: flex;
+    align-items: center;
+}
+.info-trampo{
+    width: 75%;
+    height: 100%;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.bloco:hover, .bloco2:hover, .bloco3:hover, .bloco4:hover{
+    box-shadow: 0 4px 8px 0 rgb(10, 29, 170);
+    border: 3px solid #0C2192;
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+    color:black;
+}
+
+
+.timeline{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.linhaA, .linhaE{
+    width: 3px;
+    height: 15%;
+    background-color: #0C2192;
+}
+
+.linhaB, .linhaC, .linhaD{
+    width: 3px;
+    height: 31%;
+    background-color: #0C2192;
+}
+
+p{
+    font-size: 13px;
+    
+}
+.size{
+    font-size: 15px;
+    padding: 1% 2%;
+}
