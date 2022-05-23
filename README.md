@@ -1,4 +1,4 @@
-<h1>Olá!</h1>
+ <h1>Olá!</h1>
       <br>
       <h2>Conheça o meu 1º Projeto feito com HTML e CSS.</h2>
       <br>
@@ -9,7 +9,6 @@
       <br>
       <img src="" alt="" width="50%" height="60%">
     <div>
-     
       <h2>DESAFIOS</h2>
       <li>
         Acredito que apesar de ter a ideia do design da página e de estar começando no desenvolvimento web, o principal desafio foi "caçar" na Internet as tags especificas para construir os detalhes da página.
