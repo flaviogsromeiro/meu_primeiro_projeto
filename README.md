@@ -20,8 +20,4 @@ Acredito que apesar de ter a ideia do design da página e de estar começando no
 <li>Conceitos de JAVASCRIPT;</li>
 </div> 
 <br>
-<div>
-<h2>EM DESENVOLVIMENTO</h2>
-<li>Formulário de Inscrição</li>
-<li>Site e-commerce - Projeto Semestral Senai</li>
-<li>Blog Pessoal usando o Wordpress</li>
+
