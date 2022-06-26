@@ -5,8 +5,10 @@ Conheça o meu 1º Projeto feito com HTML e CSS.
 
 Este foi um projeto desenvolvido no Senai que tinha como objetivo criar uma página pessoal usando apenas HTML e CSS.
 
+<div align="center">
+    <img align="center" src="https://github.com/flaviogsromeiro/meu_primeiro_projeto/blob/main/IMAGES/page-pessoal-min.gif" alt="" width="80%" height="60%">
+</div>
 
-<img align="center" src="https://github.com/flaviogsromeiro/meu_primeiro_projeto/blob/main/IMAGES/page-pessoal-min.gif" alt="" width="50%" height="60%">
 
 ## DESAFIOS
 <li>
