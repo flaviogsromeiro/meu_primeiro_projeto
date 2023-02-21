@@ -1,6 +1,5 @@
 <img src="IMAGES\banner_pagina_pessoal.png" alt="" width="100%" height="%">
-<br>
-<br>
+
 
 ## 🚀 Apresentação
 <br>
